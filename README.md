@@ -75,19 +75,21 @@
   
 <p>Membuat Drop menu dan tambahan CSS Eksternal :<p>
   
-  ![image](https://user-images.githubusercontent.com/54062259/114357363-daeaf700-9b9b-11eb-83ed-52282f7eb08e.png) ![image](https://user-images.githubusercontent.com/54062259/114357389-e3dbc880-9b9b-11eb-9dd6-3f0aad34cd8c.png)
+  ![image](https://user-images.githubusercontent.com/81550517/114391702-0254ba80-9bc2-11eb-89c4-f9b69ddce65a.png)
 
-![image](https://user-images.githubusercontent.com/54062259/114357476-f81fc580-9b9b-11eb-94fd-12af3c802379.png)
+![image](https://user-images.githubusercontent.com/81550517/114391717-097bc880-9bc2-11eb-8ad1-3161b82ff811.png)
 
+![image](https://user-images.githubusercontent.com/81550517/114391834-2dd7a500-9bc2-11eb-95e6-af686995aed8.png)
 
 <p>Mmebuat form dan Hasi di run :<p>
   
-  ![image](https://user-images.githubusercontent.com/54062259/114357583-1d143880-9b9c-11eb-90a7-442aaca0fcea.png)   ![image](https://user-images.githubusercontent.com/54062259/114357609-27363700-9b9c-11eb-83cf-f854a9a78da1.png)
+![image](https://user-images.githubusercontent.com/81550517/114391880-3af49400-9bc2-11eb-851a-ea71d985840c.png)
 
-![image](https://user-images.githubusercontent.com/54062259/114357626-2bfaeb00-9b9c-11eb-8f3a-a2327827c9e3.png)
+![image](https://user-images.githubusercontent.com/81550517/114391897-43e56580-9bc2-11eb-887b-6e523bc13871.png)
 
 <p>Membuat Listbox dengan Multiple Select : <p>
   
-  ![image](https://user-images.githubusercontent.com/54062259/114357686-43d26f00-9b9c-11eb-86e0-b1b9aa8e7335.png)
+ ![image](https://user-images.githubusercontent.com/81550517/114391922-4cd63700-9bc2-11eb-934b-9d348d5a9176.png)
 
-![image](https://user-images.githubusercontent.com/54062259/114357737-5056c780-9b9c-11eb-82e7-c3cb77bc3a91.png)
+![image](https://user-images.githubusercontent.com/81550517/114391941-519aeb00-9bc2-11eb-918f-0e020265b56b.png)
+
