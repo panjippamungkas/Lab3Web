@@ -71,7 +71,7 @@
 <p>Tugas Pratikum 3<p>
 <p>form yang menampilkan dropdown menu dan listbox dengan multiple selection<p>
   
-  ![image](https://user-images.githubusercontent.com/54062259/114357209-ae36df80-9b9b-11eb-9d2b-e86bbeeef573.png)
+ ![image](https://user-images.githubusercontent.com/81550517/114392118-89a22e00-9bc2-11eb-99ca-339af6612db5.png)
   
 <p>Membuat Drop menu dan tambahan CSS Eksternal :<p>
   
