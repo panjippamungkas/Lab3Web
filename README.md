@@ -79,7 +79,8 @@
 
 ![image](https://user-images.githubusercontent.com/81550517/114391717-097bc880-9bc2-11eb-8ad1-3161b82ff811.png)
 
-![image](https://user-images.githubusercontent.com/81550517/114391834-2dd7a500-9bc2-11eb-95e6-af686995aed8.png)
+![image](https://user-images.githubusercontent.com/81550517/114392280-bd7d5380-9bc2-11eb-891e-a34821b3d128.png)
+
 
 <p>Mmebuat form dan Hasi di run :<p>
   
